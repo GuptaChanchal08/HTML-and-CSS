@@ -1,0 +1,10 @@
+div{
+    height:10vh;
+    width:10vw;
+    background-size: cover;
+    background-image: url("Scene.jpg");
+    position: fixed;
+    color:black;
+    right:0px;
+    top:50px;
+}

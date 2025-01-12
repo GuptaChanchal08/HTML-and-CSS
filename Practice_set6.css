@@ -1,0 +1,27 @@
+#navbar {
+    background-color: beige;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+#box1{
+    height:400px;
+    width:400px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box2{
+    height:100px;
+    width:100px;
+    background-color: rgb(255, 252, 252);
+}
